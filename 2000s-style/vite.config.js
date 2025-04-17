@@ -6,5 +6,6 @@ export default defineConfig({
   server: {
     port: 3000,
   },
+  base: "https://github.com/contesl/C25021SLC",
   plugins: [react()],
 })
