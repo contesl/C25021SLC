@@ -1,5 +1,5 @@
 import React from 'react';
-
+//cambio imagen
 const Inicio = () => {
   return (
     <main>
